@@ -1,8 +1,8 @@
 ## Hi there :) 
 ## I am Emina 👋
 
-- I love exploring data, building models, and crafting compelling stores -
-- 
+** I love exploring data, building models, and crafting compelling stores **
+
 ** Tech Stack: **
 SQL | Snowflake | Python | MongoDB | SAS | PowerBI
 
