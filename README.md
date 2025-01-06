@@ -9,5 +9,5 @@ SQL | Snowflake | Python | MongoDB | SAS | PowerBI
 ** Featured Projects: **
 Coming Soon
 
-** Currently Learning: **
+** Currently diving into: **
 Machine Learning & Azure AI
