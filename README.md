@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there :) 
+## I am Emina 👋
 
-<!--
-**EminaToric/EminaToric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I love exploring data, building models, and crafting compelling stores -
+- 
+** Tech Stack: **
+SQL | Snowflake | Python | MongoDB | SAS | PowerBI
 
-Here are some ideas to get you started:
+** Featured Projects: **
+Coming Soon
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+** Currently Learning: **
+Machine Learning & Azure AI
