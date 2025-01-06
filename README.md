@@ -3,11 +3,11 @@
 
 ** I love exploring data, building models, and crafting compelling stores **
 
-** Tech Stack: **
+** Tech Stack: 
 SQL | Snowflake | Python | MongoDB | SAS | PowerBI
 
-** Featured Projects: **
+** Featured Projects: 
 Coming Soon
 
-** Currently diving into: **
+** Currently diving into: 
 Machine Learning & Azure AI
